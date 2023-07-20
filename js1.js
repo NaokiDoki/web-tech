@@ -5,7 +5,7 @@ function sui(){
         window.alert("the number is negative");
     }
     elseif (a>0){
-        window.alert("the number is positive")
+        window.alert("the number is positive");
     }
     else{
         window.alert("the number is 0");
