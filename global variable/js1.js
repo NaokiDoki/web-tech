@@ -1,8 +1,3 @@
-var name1 = "Ram";
-
-function sui(){
-    var name1 = "sitaaa";
-    document.write(name1);
+for (var i = 1; i<=20; i++){
+    document.write(i );
 }
-document.write(name1);
-sui();
